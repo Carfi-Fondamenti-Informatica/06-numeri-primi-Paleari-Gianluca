@@ -17,5 +17,5 @@ bool funzione (int n) {
         return false;
     }
 
-}
+} 
 
